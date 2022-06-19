@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+}
+.hometxt {
+  border-bottom: 10px rgb(70, 63, 63) solid;
+  padding-bottom: 15px;
+  text-align: center;
+  width: 100%;
+}
